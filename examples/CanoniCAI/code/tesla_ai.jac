@@ -1,6 +1,7 @@
 import {*} with "faq.jac";
 import {*} with "tfm_ner.jac";
 import {*} with "bi_enc.jac";
+import {*} with "ai_model.jac";
 node dialogue_root;
 
 node dialogue_state {
